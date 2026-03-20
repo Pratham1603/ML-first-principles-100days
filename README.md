@@ -4,5 +4,5 @@ Learning ML in 100days from first principal point of view!
 <p align="center">
   <img src="images/ELON_MUSK_QUOTE.jpg"/>
   <br>
-  <em>FIRST PRINCIPAL POV</em>
+  <em>FIRST PRINCIPlES POV</em>
 </p>
