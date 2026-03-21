@@ -1,11 +1,22 @@
-## Twitter Link
+## 🔗 Twitter Post
+Explore the original post for quick insights and updates:
 
-[Click here to View](https://x.com/PROSEED_AI/status/2035272878351163659?s=20)
+👉 [View on Twitter](https://x.com/PROSEED_AI/status/2035272878351163659?s=20)
 
-### Mindmap 
+---
 
-![img](../images/1.1.png)
+## 🧠 Mindmap
+A structured breakdown of the key concepts:
 
-### Infographic
- 
-![img](../images/1.2.png)
+<p align="center">
+  <img src="../images/1.1.png" alt="Mindmap" width="600"/>
+</p>
+
+---
+
+## 📊 Infographic
+A visual summary for quick understanding:
+
+<p align="center">
+  <img src="../images/1.2.png" alt="Infographic" width="600"/>
+</p>
