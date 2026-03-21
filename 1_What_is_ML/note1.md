@@ -4,8 +4,8 @@
 
 ### Mindmap 
 
-![img](images/1.1.png)
+![img](../images/1.1.png)
 
 ### Infographic
  
-![img](images/1.2.png)
+![img](../images/1.2.png)
