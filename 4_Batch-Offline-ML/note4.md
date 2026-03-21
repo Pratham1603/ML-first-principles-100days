@@ -1,6 +1,6 @@
 <h2 align="center">Day 4/100</h2>
 
-#### Twitter Post      : [View on Twitter](https://x.com/PROSEED_AI/status/2035284884760244471?s=20)
+#### Twitter Post      : [View on Twitter](https://x.com/PROSEED_AI/status/2035287772370751764?s=20)
 
 ---
 
