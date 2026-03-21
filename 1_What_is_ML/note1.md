@@ -1,5 +1,4 @@
 <h2 align="center">Day 1/100</h2>
-<p align="center"><i>Machine Learning Journey</i></p>
 
 ---
 
