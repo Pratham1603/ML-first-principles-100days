@@ -1,8 +1,11 @@
-# ML-first-principles-100days
-Learning ML in 100days from first principal point of view!
+## Twitter Link
 
-<p align="center">
-  <img src="images/ELON_MUSK_QUOTE.jpg"/>
-  <br>
-  <em>FIRST PRINCIPlES POV</em>
-</p>
+[Click here to View](https://x.com/PROSEED_AI/status/2035272878351163659?s=20)
+
+### Mindmap 
+
+![img](images/1.1.png)
+
+### Infographic
+ 
+![img](images/1.2.png)
