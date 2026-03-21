@@ -1,12 +1,14 @@
-## 🔗 Twitter Post
-Explore the original post for quick insights and updates:
+### 1/100
+
+---
+
+### 🔗 Twitter Post
 
 👉 [View on Twitter](https://x.com/PROSEED_AI/status/2035272878351163659?s=20)
 
 ---
 
-## 🧠 Mindmap
-A structured breakdown of the key concepts:
+### Mindmap
 
 <p align="center">
   <img src="../images/1.1.png" alt="Mindmap" width="600"/>
@@ -14,8 +16,7 @@ A structured breakdown of the key concepts:
 
 ---
 
-## 📊 Infographic
-A visual summary for quick understanding:
+### Infographic
 
 <p align="center">
   <img src="../images/1.2.png" alt="Infographic" width="600"/>
