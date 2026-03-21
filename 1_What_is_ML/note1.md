@@ -7,6 +7,7 @@
 
 👉 [View on Twitter](https://x.com/PROSEED_AI/status/2035272878351163659?s=20)
 
+---
 
 ### Mindmap
 
@@ -14,6 +15,7 @@
   <img src="../images/1.1.png" alt="Mindmap" width="600"/>
 </p>
 
+---
 
 ### Infographic
 
