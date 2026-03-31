@@ -1,6 +1,6 @@
 <h2 align="center">Day 23/100</h2>
 
-#### Twitter Post      : [View on Twitter](https://x.com/PROSEED_AI/status/2038663646205878690?s=20)
+#### Twitter Post      : [View on Twitter](https://x.com/PROSEED_AI/status/2038893755881943467?s=20)
 
 ---
 
